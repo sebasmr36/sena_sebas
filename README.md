@@ -27,7 +27,7 @@ Bienvenido/a a mi portafolio personal y hoja de vida digital. Este sitio web mue
 ├── index.html          # Página principal
 ├── estilos.css         # Estilos principales
 ├── README.md           # Este archivo
-└── assets/             # Recursos (imágenes, íconos, etc.)
+└── assets/             # Recursos (imágenes)
     ├── images/        # Imágenes del sitio
     └── icons/         # Íconos y favicons
 ```
@@ -38,12 +38,4 @@ Bienvenido/a a mi portafolio personal y hoja de vida digital. Este sitio web mue
 2. Abre el archivo `index.html` en tu navegador
 3. Explora mi portafolio y hoja de vida
 
-## 📧 Contacto
 
-- 📧 [sebas@example.com](mailto:sebas@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/tuperfil)
-- 🐱 [GitHub](https://github.com/tuperfil)
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
